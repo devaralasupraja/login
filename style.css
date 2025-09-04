@@ -1,6 +1,7 @@
 body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(to right, #6a11cb, #2575fc); 
+  /* background: linear-gradient(to right, #6a11cb, #2575fc);  */
+  background-color: aqua;
   height: 100vh;
   display: flex;
   justify-content: center;
